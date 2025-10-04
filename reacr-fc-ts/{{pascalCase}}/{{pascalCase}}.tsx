@@ -1,3 +1,8 @@
-export function {{pascalCase}}() {
+import type { ComponentProps } from 'react';
+
+
+type {{pascalCase}}Props = ComponentProps<''>
+
+export function {{pascalCase}}({}: {{pascalCase}}Props) {
 
 }
