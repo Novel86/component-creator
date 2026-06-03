@@ -1,1 +1,1 @@
-export * from './{{pascalCase}}';
+export * from './{{kebabCase}}';
